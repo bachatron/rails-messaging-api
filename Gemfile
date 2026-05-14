@@ -36,8 +36,6 @@ gem "image_processing", "~> 1.2"
 gem "devise"
 gem "devise-jwt"
 
-gem "rack", ">= 3.2.6"
-
 # CORS (React will be on a different port)
 gem "rack-cors"
 
